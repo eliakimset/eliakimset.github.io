@@ -1,13 +1,10 @@
 subject: Awards
-listing-order: 6
+listing-order: 5
 icon: "/assets/img/trophy.svg"
 contents:
-  - title: IEEEE Fellow
-    description: Association for Natural Language Processing
-    date: Feb. 2024
-  - title: Gogle CodeJam
-    description: 3rd place in Gogle CodeJam
-    date: Jul. 2013
-  - title: Millennium Hackaton
-    description: won the best Inspirational Youth Awards
-    date: Oct. 2010
+  - title: Athlete of the Year
+    description: Best in Physical Education
+    date: May 2019
+  - title: With Honors
+    description: Junior High School
+    date: April 2017

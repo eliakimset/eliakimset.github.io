@@ -4,13 +4,16 @@ icon: "/assets/img/graduation-cap.svg"
 contents:
   - title: Mapúa Malayan Digital College, BS in Information Technology
     description:
-      - Design of a method to build a probabilistic generative model
-      - Development of model calibration algorithm for cross-domain few-shot learning
+      - Developed an automated payroll system for a mock company, utilizing both CLI and GUI interfaces
+      - Designed a user interfaces for payroll and inventory systems to enhance usability and functionality
     date: Aug. 2023 - Present
   - title: National College of Science and Technology, BS in Electronics Engineering
     description:
-      - Development of deep learning algorithms for automatically tracking the facial expressions
-      - Optimizing parameter efficient fine tuning for fairness in medical image analysis
+      - Developed a strong understanding of fundamental engineering principles and mathematical concepts
+      - Participated in introductory labs and exercises focusing on logic gates, basic programming, etc.
     date: July 2019 - July 2020
-  - title: Benedictine Institute of Learning, STEM
+  - title: Benedictine Institute of Learning, Senior High School
+    description:
+      - Pursued Science, Technology, Engineering, and Mathematics (STEM) academic track
+      - Developed problem-solving skills through hands-on projects in physics, chemistry, and computer science
     date: June 2018 - May 2019
