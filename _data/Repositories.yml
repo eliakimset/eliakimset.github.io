@@ -1,0 +1,24 @@
+subject: Repositories
+listing-order: 5
+icon: "/assets/img/github.svg"
+contents:
+  - title: Philippine Eagle Website
+    link: "[https://kimset9001.github.io/kimsetmmdc.github.io/](https://kimset9001.github.io/kimsetmmdc.github.io/)"
+    description: 
+      - "A website dedicated to the preservation and awareness of the Philippine Eagle, showcasing information, images, and resources to help support conservation efforts."
+      - "Technology Used: HTML, SCSS, JavaScript, Shell, Ruby"
+  - title: MotorPH Employee Management Payroll System
+    link: "[https://github.com/eliakimset/MO-IT103-A1101-CP2-Group-4](https://github.com/eliakimset/MO-IT103-A1101-CP2-Group-4)"
+    description: 
+      - "A payroll system designed for MotorPH, featuring a graphical user interface (GUI) using Java Swing to automate and streamline payroll processes, including salary calculations, tax deductions, and employee information management."
+      - "Technology Used: Java"
+  - title: MotorPH Payroll System Proposal
+    link: "[https://github.com/eliakimset/MO-IT101-Group-2](https://github.com/eliakimset/MO-IT101-Group-2)"
+    description: 
+      - "An alternative proposal for the MotorPH Payroll System, using a command-line interface (CLI) to provide different approaches and enhancements to improve the overall functionality and efficiency of the payroll operations."
+      - "Technology Used: Java"
+  - title: MMDC Grade Calculator
+    link: "[https://github.com/eliakimset/MMDC-Grade-Calculator](https://github.com/eliakimset/MMDC-Grade-Calculator)"
+    description: 
+      - "An application that calculates grades for MMDC students based on their Milestones, Terminal Assessments, and Attendance. It helps students determine the scores they need to pass or maintain their desired grades."
+      - "Technology Used: Java"

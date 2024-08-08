@@ -5,12 +5,19 @@ contents:
   - title: Scale AI | Remotasks
     role: Data Annotator
     description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
+     - Achieved an exceptional accuracy rate of over 97% in object detection, ensuring the safety and reliability of self-driving car systems.
+     - Enhanced real-world testing success by ensuring the LiDAR annotation process could withstand varying weather conditions and complex driving scenarios, resulting in more reliable data for testing.
+     - Contributed to the successful launch of several self-driving car and delivery robot projects by providing accurate and reliable LiDAR data for training and validation, reducing development time.
+     - Developed a reputation for providing high-quality customer service to internal and external clients, resulting in positive feedback.
+     - Contributed to developing training materials and documentation for new team members, resulting in a streamlined onboarding process and knowledge transfer.
     date: May 2019 - Ongoing
   - title: Apex株式会社
     role: Data Annotator
     description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
+     - Elevated accuracy in forest surveying from 57% to 95% for detecting forest trees.
+     - Successfully annotated and identified 47,000 species of trees in 3 months, significantly enriching ecological research and conservation efforts.
+     - Expanded the species classification capabilities by annotating 80 species of trees, enhancing the dataset's diversity and utility.
+     - Enhanced the precision of building crack detection by precisely annotating, enabling the system to detect even the smallest cracks, including those as narrow as 0.1mm, contributing to safer and more resilient structures.
+     - Played a key role in advancing a real-time system for detecting cracks, facilitating instant recognition and reporting of structural issues, thereby averting potential safety risks and expensive repair expenses.
+     - Led a team of annotation specialists, productively managing their workflows and ensuring consistent quality, and achieving project milestones ahead of schedule.
     date: March 2023 - Nov. 2023

@@ -4,39 +4,33 @@ icon: "/assets/img/clipboard-list.svg"
 contents:
   - title: "3D Lidar Point Cloud  Cuboid Annotation"
     description: 
-      - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-      - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-      - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+     - Create precise cuboid annotations around objects of interest in 3D LiDAR point cloud data.
+     - Ensure accurate identification and classification of objects such as vehicles, pedestrians, and obstacles to enhance object detection capabilities for autonomous driving systems.
     image: "![](https://s3.amazonaws.com/i.snag.gy/TqkRur.jpg)"
   - title: "3D LiDAR Point Cloud Semantic Segmentation"
     description: 
-      - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-      - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-      - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      - Classify each point in the 3D LiDAR point cloud into categories like road, sidewalk, and vegetation.
+      - Improves the vehicle’s ability to interpret and navigate through various environmental elements by providing a comprehensive understanding of the scene.
     image: "![](https://s3.amazonaws.com/i.snag.gy/epo73d.jpg)"
   - title: "3D Lidar Point Cloud Callibration" 
     description: 
-      - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-      - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-      - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      - Aligns and corrects 3D LiDAR point cloud data to minimize measurement errors and distortions.
+      - Ensures accurate environmental mapping and object detection, which is crucial for the vehicle’s safety and operational reliability
     image: "![](https://s3.amazonaws.com/i.snag.gy/acbFVz.jpg)"
   - title: "3D Lidar Point Cloud Mapping" 
     description: 
-      - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-      - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-      - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      - Enables the vehicle to understand and navigate complex environments by distinguishing between different elements of the scene.
+      - Create detailed and accurate representations of roadways and traffic features to support autonomous vehicle navigation, lane-keeping systems, and traffic management.
     image: "![](https://scale.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmap.45d7b5f1.png&w=1920&q=100)"
   - title: "2D Lidar Videobox Annotation"
     description: 
-      - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-      - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-      - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      - Involves analyzing video frames from the 2D LiDAR sensor, marking objects to train models for object detection and tracking.
+      - Used in scenarios where 2D LiDAR sensors are employed, such as robotics, surveillance systems, and certain navigation tasks.
     images: '<img src="https://s3.amazonaws.com/i.snag.gy/z8Alro.jpg" width="743" height="460" />'
   - title: "2D Image Annotation"
     description: 
-      - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-      - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-      - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      -  Involves annotating images to provide ground truth data, which helps models learn to recognize and understand visual information.
+      - Used in object detection, facial recognition, image segmentation, and various computer vision tasks.
     image: '<img src="https://s3.amazonaws.com/i.snag.gy/cm1BF9.jpg" alt="2D Image Annotation" />'
   - title: "Tools Used"
     images: '<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjdQ_GLsUZBs80XrovadRLOSCqn-Yr2Uo8lNrM28-ocA189GuvCIdA-uxtLje8dbMtVeo&usqp=CAU" width="60" height="60" style="margin-right: 10px;"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpG2R1TC1ATsjcfSeY3Wn8W5U8SFRx9BAIeA&s" width="60" height="60" style="margin-right: 10px;"/> <img src="https://static-00.iconduck.com/assets.00/ai-amazonrekognition-icon-1696x2048-77s6olqh.png" width="60" height="60" style="margin-right: 10px;"/> <img src="https://logowik.com/content/uploads/images/scale-ai-data-platform2234.logowik.com.webp" width="80" height="60" style="margin-right: 10px;"/>'
